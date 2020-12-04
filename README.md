@@ -42,3 +42,6 @@ For working example, see `dht11_example.py` (you probably need to adjust pin for
 # License
 
 This project is licensed under the terms of the MIT license.
+
+# Reference
+https://www.souichi.club/raspberrypi/temperature-and-humidity02/
